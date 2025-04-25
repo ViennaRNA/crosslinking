@@ -3,15 +3,11 @@
 
 *This is the source code to generate the data for the pre-print "[Integrating High-Throughput RNA-RNA Interaction Data into RNA Secondary Structure Prediction](https://hal.science/hal-05032055)".*
 
-<img width="100%" src="https://github.com/user-attachments/files/19908292/cross_ex_1.pdf" />
-
+<img width="100%" src="https://github.com/user-attachments/assets/eb91f281-15b4-4b14-b310-d3dc83d9dd25" />
 
 
 ## Abstract
 *In recent years several methods for detecting RNA-RNA in- teractions have become available that use a combination of crosslinking, ligation, and sequencing of the resulting chimeric reads. In principle, such data also convey information on intramolecular helices. They are, however, not accurate enough to identify basepairs directly. Instead only regions of direct contacts can be inferred. Here we show that such data can be incorporated as pseudo-energies into RNA secondary structure prediction algorithms by assigning a bonus term to all potential pairs between crosslinked intervals. Using simulated data we show that given sufficient coverage such data can push the accuracy of the predicted structure to a basepair-wise MCC of above 90%. Moreover, we observe that the beneficial effect of such interval-wise pseudo-energies is quite robust w.r.t. the length of the interval and the value of the bonus term, but depends strongly on the fraction of the sequence that is covered by significant interaction data.*
-https://hal.science/hal-05032055
-
-
 
 
 ## Recquirements
